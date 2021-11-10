@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">OceanTech</string>
+    <string name="button_login">Login</string>
 </resources>
