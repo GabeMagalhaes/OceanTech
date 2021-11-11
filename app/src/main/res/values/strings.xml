@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">OceanTech</string>
     <string name="button_login">Login</string>
+    <string name="welcome_text">Bem Vindo (Fulano) !</string>
+    <string name="button_relatorio">Relatórios pH</string>
+    <string name="button_integrantes">Integrantes</string>
 </resources>

@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidProjects/OceanTech/app/src/main/res/layout/activity_home.xml" value="0.22395833333333334" />
+        <entry key="..\:/AndroidProjects/OceanTech/app/src/main/res/layout/activity_integrantes.xml" value="0.327445652173913" />
         <entry key="..\:/AndroidProjects/OceanTech/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/OceanTech/app/src/main/res/layout/activity_relatorio.xml" value="0.327445652173913" />
       </map>
     </option>
   </component>
