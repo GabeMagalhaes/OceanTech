@@ -14,15 +14,11 @@ class HomeActivity : AppCompatActivity() {
         binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.btRelatorio.setOnClickListener {
-            val intent = Intent(this@HomeActivity, RelatorioActivity::class.java)
+        binding.btReport.setOnClickListener {
+            val intent = Intent(this@HomeActivity, ReportActivity::class.java)
             startActivity(intent)
         }
 
-        binding.btIntegrantes.setOnClickListener {
-            val intent = Intent(this@HomeActivity, IntegrantesActivity::class.java)
-            startActivity(intent)
-        }
 
     }
 }

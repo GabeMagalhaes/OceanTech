@@ -1,7 +1,14 @@
 <resources>
     <string name="app_name">OceanTech</string>
     <string name="button_login">Login</string>
-    <string name="welcome_text">Bem Vindo (Fulano) !</string>
-    <string name="button_relatorio">Relatórios pH</string>
-    <string name="button_integrantes">Integrantes</string>
+    <string name="welcome_text">Welcome !</string>
+    <string name="button_reports">Reports</string>
+    <string name="button_members">Members</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="description_text">Conserve and sustainably use the oceans, seas and marine resources for sustainable development</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="member1_data">RM: 81178 - Gabriel Oliveira Magalhães</string>
+    <string name="member2_Data">RM 78927 : Marcos Alberto Leone júnior</string>
+    <string name="member3_Data">RM: 80760 - Rafael Luzzim Bargas</string>
 </resources>

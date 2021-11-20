@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.oceantech">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:fullBackupOnly="true"
@@ -11,10 +13,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.OceanTech">
         <activity
-            android:name=".RelatorioActivity"
+            android:name=".ReportActivity"
             android:exported="false" />
         <activity
-            android:name=".IntegrantesActivity"
+            android:name=".MembersActivity"
             android:exported="false" />
         <activity
             android:name=".HomeActivity"
